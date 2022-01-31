@@ -18,6 +18,7 @@ Hi there! 👋
 - 💬 [https://t.me/egregors](https://t.me/egregors)
 
 📕 &nbsp;**Some Posts**
+- [Serialize and Deserialize Binary Tree](https://dev.to/egregors/serialize-and-deserialize-binary-tree-4pp4)
 - [VS Code for Haskell in 2020](https://dev.to/egregors/vscode-for-haskell-in-2020-5dn8)
 - [Your first Stack project (build, test, dist)](https://dev.to/egregors/your-first-stack-project-build-test-dist-10fa)
 

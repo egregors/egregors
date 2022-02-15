@@ -85,7 +85,7 @@ Hi there! 👋
 
   I'm proficient with a modern development process and well experienced in practices: Agile, VCS, TDD, Continuous Integration \ Delivery. So I prefer to build a system from scratch: designing architecture, selecting stack, setting up a workflow for the team and config the deployment process.
 
-  I know how to create beautiful and reliable RestAPI's, scalable and maintainable systems according to KISS, SOLID, DRY principles. I believe the programming – it is about complexity control that's why I always remember: code should be written for people, not for machines.
+  I know how to create beautiful and reliable RestAPI's, scalable and maintainable systems according to KISS, SOLID, DRY, CQRS principles. I believe the programming – it is about complexity control that's why I always remember: code should be written for people, not for machines.
 
   I'm a big fan of Continuous Integration ideas, public Clouds and the "fearless-programming" concept. So, I pay huge attention to quality-gates, automation of linting, formatting, testing and good coverage for my projects. This is especially important for remote teams.
 

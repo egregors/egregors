@@ -110,21 +110,26 @@ Hi there! 👋
   <summary><b>🤔&nbsp;&nbsp;Probably interesting stuff. Or not. Idk&nbsp;&nbsp;</b></summary>
   <br/>
   
-| Name                    | Link                                                | Description                                                  |
-| :---------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
-| teamcity-docker-compose | https://github.com/egregors/teamcity-docker-compose | Compose to create working TeamCity server with PostgreSQL and Agents |
-| logux-django            | https://github.com/logux/django                     | Django Logux integration engine                              |
-| youtrack-docker-compose | https://github.com/egregors/youtrack-docker-compose | Compose to create working YouTrack server                    |
-| cbrf                    | https://github.com/egregors/cbrf                    | Wrapper for The Central Bank of the Russian Federation site API |
-| private-docker-registry | https://github.com/egregors/private-docker-registry | Create your own private docker registry with ssl by letsencrypt and basic auth |
+| Name                    | Link                                                | Description                                                                                   |
+|:------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| teamcity-docker-compose | https://github.com/egregors/teamcity-docker-compose | Compose to create working TeamCity server with PostgreSQL and Agents                          |
+| logux-django            | https://github.com/logux/django                     | Django Logux integration engine                                                               |
+| zenmoney-backup         | https://github.com/egregors/zenmoney-backup         | Lightweight container to back up your zenmoney data by schedule                               |
+| TreeNode                | https://github.com/egregors/TreeNode                | Binary Tree Node struct with LeetCode compatible Serialize / Deserialize format               |
+| leetgo                  | https://github.com/egregors/leetgo                  | LeetCode in Go, just for fun obviously                                                        |
+| kesh                    | https://github.com/egregors/kesh                    | Some cache policies implementation in Go                                                      |
+| youtrack-docker-compose | https://github.com/egregors/youtrack-docker-compose | Compose to create working YouTrack server                                                     |
+| cbrf                    | https://github.com/egregors/cbrf                    | Wrapper for The Central Bank of the Russian Federation site API                               |
+| private-docker-registry | https://github.com/egregors/private-docker-registry | Create your own private docker registry with ssl by letsencrypt and basic auth                |
 | cookiecutter-django     | https://github.com/pydanny/cookiecutter-django      | Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. |
-| django-cbrf             | https://github.com/egregors/django-cbrf             | Django package for working with cbrf                         |
-| go-func-yourself        | https://github.com/egregors/go-func-yourself        | Ridiculous try to make functional code on Go                 |
-| django-silly-search     | https://github.com/egregors/django-silly-search     | Django-app for search by Q-expressions                       |
-| pySplash                | https://github.com/egregors/pySplash                | Unsplash wallpapers on your Mac OS                           |
-| HWP                     | https://github.com/egregors/HWP                     | Helical wheel projection with variability vector             |
-| sucker                  | https://github.com/egregors/sucker                  | Concurrent file downloader on Go                             |
-| socks5-server           | https://github.com/egregors/socks5-server           | Simple socks5 server                                         |
+| django-cbrf             | https://github.com/egregors/django-cbrf             | Django package for working with cbrf                                                          |
+| go-func-yourself        | https://github.com/egregors/go-func-yourself        | Ridiculous try to make functional code on Go                                                  |
+| django-silly-search     | https://github.com/egregors/django-silly-search     | Django-app for search by Q-expressions                                                        |
+| pySplash                | https://github.com/egregors/pySplash                | Unsplash wallpapers on your Mac OS                                                            |
+| splsh                   | https://github.com/egregors/splsh                   | Unsplash wallpapers on your desktop                                                           |
+| HWP                     | https://github.com/egregors/HWP                     | Helical wheel projection with variability vector                                              |
+| sucker                  | https://github.com/egregors/sucker                  | Concurrent file downloader on Go                                                              |
+| socks5-server           | https://github.com/egregors/socks5-server           | Simple socks5 server                                                                          |
 
 </details>
 

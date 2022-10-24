@@ -12,7 +12,7 @@ Hi there! 👋
 - 😸 Feel free to join us in our cozy [VLDC community](https://t.me/vldchat) and fooling around with the [Nyan](https://github.com/vldc-hq/vldc-bot)!
 
 🔗 &nbsp;**Connect with me**
-- ✉️ [egregors@pm.me](mailto:egregors@pm.me) 
+- ✉️ [egregors@pm.me](mailto:egregors@pm.me) 🔏 [PGP 77CD 1CC8 A3B4 5D41 A472](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x77cd1cc8a3b45d41a472daec78c8ddcc8bb0494a)
 - 💻 [https://github.com/egregors](https://github.com/egregors) 
 - 🧑‍💻 [https://www.linkedin.com/in/vadim-iskuchekov-6b1b4581/](https://www.linkedin.com/in/vadim-iskuchekov-6b1b4581/) 
 - 💬 [https://t.me/egregors](https://t.me/egregors)

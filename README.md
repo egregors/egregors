@@ -7,7 +7,6 @@ Hi there! 👋
 <!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/2153895/144411614-b9920c13-fb3f-45b3-a412-2c4d15d23ad1.jpg" /> -->
 
 
-- 🧑‍💻 Try to hire me!
 - 🌱 I’m currently working with Go, Python, Haskell
 - 😸 Feel free to join us in our cozy [VLDC community](https://t.me/vldchat) and fooling around with the [Nyan](https://github.com/vldc-hq/vldc-bot)!
 

@@ -77,23 +77,13 @@ Hi there! 👋
   
   <img align="right" src="https://user-images.githubusercontent.com/2153895/144409130-73627edd-620d-4803-826f-9463117fcb3b.gif" />
   
-  I'm a software engineer with ten years of experience in professional software development. I've been leading a remote dev team for more than three years now. As a senior backend developer, I've built a backend for API driven B2B systems and workflow automation.
+Software engineer with 10+ years of experience. I love building things from scratch: designing architectures, picking the right stack, and diving into everything from backend to frontend (sometimes even things I probably shouldn’t touch).
 
-  I see myself as a "playing coach" in the team, not only the man who leads but the man who plays.
+I enjoy crafting well-structured, scalable, and maintainable systems while following KISS, SOLID, DRY, and other buzzwords everyone loves to throw around. Whether they actually work or not – that’s another story.
 
-  My master's degree in CS (FEFU) and years of experience gave me a deep understanding of web technologies, protocols, algorithms and data structures.
+Functional programming is my guilty pleasure, and yes, I sometimes write Haskell just for fun (no regrets).
 
-  I'm proficient with a modern development process and well experienced in practices: Agile, VCS, TDD, Continuous Integration \ Delivery. So I prefer to build a system from scratch: designing architecture, selecting stack, setting up a workflow for the team and config the deployment process.
-
-  I know how to create beautiful and reliable RestAPI's, scalable and maintainable systems according to KISS, SOLID, DRY, CQRS principles. I believe the programming – it is about complexity control that's why I always remember: code should be written for people, not for machines.
-
-  I'm a big fan of Continuous Integration ideas, public Clouds and the "fearless-programming" concept. So, I pay huge attention to quality-gates, automation of linting, formatting, testing and good coverage for my projects. This is especially important for remote teams.
-
-  Programming is my passion, and I wonder the academic side of the question as well. I am still inspired by the ideas of McConnell, Fowler, and Gang of Four. I like "Clean Architect | Code | Coder" concepts and I believe if you have to to write OOP code, it should be a simple and clean one.
-
-  Lately I'm passionate about in functional programming, and from time to time like to solve some problems by Haskell just for fun.
-
-  I'm looking for ways to master my skills, so regularly attend global conferences, meetups. Also, I've taken part in the local dev community [VLDC](https://vldc.org/).
+I’m deeply into Continuous Integration, automation, and well-documented APIs. Technology is my passion. Whether it’s coding, tinkering with hardware, or exploring the fascinating world of IoT, I find joy in all things tech.
 
   #### Education
 

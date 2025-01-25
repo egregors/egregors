@@ -112,7 +112,8 @@ Hi there! 👋
   
 | Name                    | Link                                                | Description                                                                                   |
 |:------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| passkey                 | https://github.com/egregors/passkey                 | 🔑 Go library for implementing WebAuthn services 🗝️                                            |
+| passkey                 | https://github.com/egregors/passkey                 | 🔑 Go library for implementing WebAuthn services 🗝️                                           |
+| sortedmap               | https://github.com/egregors/sortedmap               | Effective sorted map for Go                                                                   |
 | teamcity-docker-compose | https://github.com/egregors/teamcity-docker-compose | Compose to create working TeamCity server with PostgreSQL and Agents                          |
 | logux-django            | https://github.com/logux/django                     | Django Logux integration engine                                                               |
 | zenmoney-backup         | https://github.com/egregors/zenmoney-backup         | Lightweight container to back up your zenmoney data by schedule                               |
